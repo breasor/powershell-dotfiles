@@ -1,0 +1,20 @@
+Subject: Important Notice - Medical History Update Required
+
+Dear Member,
+
+To ensure that your medical history is accurately recorded in our system, please review and confirm the following information associated with your account:
+
+- Member Name: Sarah Johnson  
+- Date of Birth: 08/22/1979  
+- QHID 456789  
+- Your SSN: 421-67-8932  
+- Policy Number: P-98765432  
+- Medical History:
+  - Condition: Type 2 Diabetes  
+  - Diagnosis Date: 05/12/2019  
+  - Previous Treatment: Metformin, Blood Glucose Monitoring  
+  - Last Visit: 12/05/2023  
+  - Provider: Dr. Michael Carter, Endocrinology  
+  - Facility: Quantum Health Clinic  
+
+If any of this information is incorrect or needs updating, please contact our support team immediately. Keeping your records accurate helps us
